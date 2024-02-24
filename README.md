@@ -19,6 +19,7 @@ Before finding the backgroung
 ![image](https://github.com/AdamNatur/PictureBackgroundRemove/assets/92713694/8b73114c-1f7b-469d-97ee-71e227f1755f)
 
 After detecting the background ( it is colored in red)
+
 ![image](https://github.com/AdamNatur/PictureBackgroundRemove/assets/92713694/9f2e53e0-cea2-4d41-8310-f87f3981055f)
 
 
